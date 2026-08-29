@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "record-ui-demo",
+  "version": "0.1.0",
+  "description": "Record how-to UI videos with a visible cursor overlay and optional voiceover.",
+  "keywords": ["video", "screencast", "playwright", "elevenlabs"],
+  "license": "MIT"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ocean",
+  "name": "Ocean",
+  "kicker": { "pl": "Instrukcja", "en": "Tutorial" },
+  "titleCard": {
+    "gradient": ["#0d2f5c", "#1a5cad", "#3b82c4"],
+    "color": "#ffffff",
+    "font": "ui-sans-serif, system-ui, sans-serif"
+  },
+  "highlight": {
+    "outline": "#f59e0b",
+    "fill": "rgba(245, 158, 11, .18)"
+  },
+  "label": {
+    "background": "#111827",
+    "color": "#ffffff"
+  }
+}

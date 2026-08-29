@@ -1,0 +1,18 @@
+{
+  "id": "midnight",
+  "name": "Midnight",
+  "kicker": { "pl": "Instrukcja", "en": "Tutorial" },
+  "titleCard": {
+    "gradient": ["#020617", "#111827", "#1f2937"],
+    "color": "#ffffff",
+    "font": "ui-sans-serif, system-ui, sans-serif"
+  },
+  "highlight": {
+    "outline": "#f59e0b",
+    "fill": "rgba(245, 158, 11, .18)"
+  },
+  "label": {
+    "background": "#111827",
+    "color": "#ffffff"
+  }
+}

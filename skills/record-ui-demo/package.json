@@ -1,0 +1,15 @@
+{
+  "name": "record-ui-demo",
+  "private": true,
+  "type": "module",
+  "description": "Record how-to UI videos with a visible cursor overlay and optional ElevenLabs voiceover",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "workflow": "node scripts/workflow.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}

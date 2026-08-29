@@ -1,0 +1,18 @@
+{
+  "id": "daylight",
+  "name": "Daylight",
+  "kicker": { "pl": "Instrukcja", "en": "How-to" },
+  "titleCard": {
+    "gradient": ["#f8fafc", "#e2e8f0", "#cbd5e1"],
+    "color": "#0f172a",
+    "font": "ui-sans-serif, system-ui, sans-serif"
+  },
+  "highlight": {
+    "outline": "#d97706",
+    "fill": "rgba(217, 119, 6, .16)"
+  },
+  "label": {
+    "background": "#111827",
+    "color": "#ffffff"
+  }
+}
